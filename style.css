@@ -1,0 +1,39 @@
+
+h1 {
+    color: blue; /* กำหนดสีข้อความเป็นสีน้ำเงิน */
+    font-size: 24px; /* กำหนดขนาดฟอนต์ */
+    text-align: center;
+}
+
+/* เลือกแท็ก p ทั้งหมด */
+p {
+    margin-left: 20px; /* กำหนดระยะห่างด้านซ้าย */
+    border: 1px solid black; /* ใส่เส้นขอบ */
+}
+
+header {
+margin: 0;
+padding: 0;
+width: 100%;
+}
+
+.banner-container {
+    width: 100%;
+    overflow: hidden;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
+
+.banner-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 20px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
